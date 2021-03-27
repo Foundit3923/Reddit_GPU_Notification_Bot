@@ -1,0 +1,1 @@
+"YOUR PATH HERE\venv\Scripts\python.exe" "YOUR PATH HERE\keywordbot.py"
